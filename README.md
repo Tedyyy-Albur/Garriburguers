@@ -1,2 +1,0 @@
-# Garriburguers
-Venta de Hamburguesas 
